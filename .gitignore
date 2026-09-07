@@ -1,0 +1,5 @@
+LEDGER.md
+LEARNING.md
+.venv/
+__pycache__/
+.ipynb_checkpoints/
